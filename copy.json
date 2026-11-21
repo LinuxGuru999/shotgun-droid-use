@@ -1,0 +1,18 @@
+{
+  "headline": "Master Android Shell Access Without Root or Cloud",
+  "benefits": [
+    "Instantly verify local ADB and Shizuku permissions.",
+    "Automate helper reconnection to prevent session drops.",
+    "Deploy custom scripts with zero manual CLI typing."
+  ],
+  "faq": [
+    {
+      "q": "Does this require root access?",
+      "a": "No, it leverages ADB and Shizuku for secure local execution without rooting."
+    },
+    {
+      "q": "Will my data leave my device?",
+      "a": "No, all processing happens locally on your device for maximum privacy."
+    }
+  ]
+}
