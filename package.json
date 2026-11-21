@@ -1,0 +1,8 @@
+{
+  "name": "droid-use",
+  "version": "1.0.0",
+  "private": true,
+  "bin": {
+    "droid-use": "bin/droid-use.js"
+  }
+}
