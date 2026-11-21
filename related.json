@@ -1,0 +1,17 @@
+[
+  {
+    "name": "droid-term",
+    "url": "https://LinuxGuru999.github.io/shotgun-droid-term/",
+    "tagline": "Bootstrap a productive terminal environment on Android"
+  },
+  {
+    "name": "DevKit CLI",
+    "url": "https://LinuxGuru999.github.io/shotgun-devkit-cli/",
+    "tagline": "A pocket CLI for everyday developer chores"
+  },
+  {
+    "name": "DevKit Pro",
+    "url": "https://LinuxGuru999.github.io/shotgun-devkit-pro/",
+    "tagline": "Full developer toolkit with launch automation"
+  }
+]
